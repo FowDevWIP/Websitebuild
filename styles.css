@@ -1,0 +1,153 @@
+body {
+  margin: 0;
+  padding: 50px 60px;
+  border: 20px 10px 
+  font-family: aerial; 
+  background: #F7F7F7;
+}
+
+.header {
+  background-image: url(https://monkwood.com/cdn/shop/products/3AA5B85E-9D3E-4E15-AC2D-A296C27E0BFB.png?v=1583181670);
+  height: 100px;
+  width: 100%; 
+  background-position: center;
+}
+
+.nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden; 
+
+}
+
+.nav li {
+  text-decoration: none; 
+  color: black;
+  float: left; 
+  padding: 15px; 
+
+}
+
+.nav a:hover {
+
+}
+
+main {
+  color: #938E89;
+  text-align: center;
+  line-height: 24px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: 20px; 
+  margin-right: 20px;
+}
+
+
+p {
+  color: #938E89;
+  text-align: center;
+  line-height: 24px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+
+.presets {
+  background-color: darkseagreen;
+}
+
+.samples {
+  background-color: darkseagreen;
+}
+
+.online {
+  background-color: darkseagreen;
+}
+
+.feedback {
+  background-color: darkseagreen;
+}
+
+.bio{
+  background-color: darkseagreen;
+}
+
+
+/* Typography */
+
+h1 {
+  color: #41292C;
+  background-color: #938E89;
+  font-family: 'Raleway', sans-serif;
+  font-size: 60px;
+  font-weight: 500;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+
+}
+
+
+h2 {
+  color: #41292C;
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+
+h3 {
+  color: #41292C;
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  text-align: center;
+}
+
+
+h4 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: .2em;
+}
+
+
+h5 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: .2em;
+  font-weight: 300;
+}
+
+
+p {
+  color: #444444;
+  line-height: 32px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+}
+
+
+a {
+  color: #41292C;
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 2px;
+ 
+}
+
+
+
